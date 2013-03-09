@@ -1,7 +1,11 @@
 freezing-ninja
 ==============
 
-RoR app the resembles twitter. Also found here: http://enigmatic-caverns-7891.herokuapp.com/
+RoR app the resembles twitter. 
+
+Also found here: http://enigmatic-caverns-7891.herokuapp.com/
+
+
 
 == Welcome to Rails
 
