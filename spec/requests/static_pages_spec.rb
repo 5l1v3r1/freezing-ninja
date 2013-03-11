@@ -1,10 +1,14 @@
 require 'spec_helper'
 
 describe "Static pages" do
+
   describe "Home page" do
-    it "should have the content 'freezing-ninja'" do
+    
+    it "should have the content 'Freezing Ninja'" do
       visit '/static_pages/home'
-      page.should have_content('freezing-ninja')
+      page.should have_content('Freezing Ninja')
     end
+  
   end
+
 end
