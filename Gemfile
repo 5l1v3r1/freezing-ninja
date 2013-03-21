@@ -28,6 +28,8 @@ gem 'jquery-rails'
 
 group :test do
   gem 'capybara'
+  gem 'rb-inotify'
+  gem 'libnotify'
 end
 
 group :production do
